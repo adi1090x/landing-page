@@ -159,3 +159,43 @@ body {
     font-weight: 700;
     text-align: right;
 }
+
+/* Quote Section */
+.last-container {
+    padding: 6% 16%;   
+}
+
+.try-box {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 40px 120px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.try-text h4 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+.try-text p {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.try-button {
+    color: #F9FAF8;
+    font-weight: bold;
+    text-align: center;
+    max-width: 100px;
+    padding: 8px 20px;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+}
+
+.try-box a {
+    text-decoration: none;
+}
