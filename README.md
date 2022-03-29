@@ -1,2 +1,3 @@
 # landing-page
-PROJECT: LANDING PAGE
+
+Simple Archcraft Landing Page : An Assignment By [TOP](https://www.theodinproject.com/)
